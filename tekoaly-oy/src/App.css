@@ -15,7 +15,7 @@
 
 .section {
   display: flex;
-  background-color: #F5F5F7; /* Apple grey background color */
+  background-color: #ffffff; /* Apple grey background color */
   flex-direction: row;
   align-items: center;
   justify-content: space-between;
@@ -36,7 +36,7 @@
 
 
 .App-footer {
-  background-color: #ffffff; /* Apple grey background color */
+  background-color:#F5F5F7; /* Apple grey background color */
   padding: 1rem;
   color: #333; /* Dark grey text color */
   position: relative;
